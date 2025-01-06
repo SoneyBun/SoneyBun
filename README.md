@@ -21,3 +21,4 @@ Hi, I'm Sunny, a novice coder with tons of experience, and looking forward to le
 
 ## 👽 Misc
 - **🧠 Don't ask to ask, just ask:** https://dontasktoask.com
+- **😃 No hello:** https://nohello.net/en/
