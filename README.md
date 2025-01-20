@@ -1,4 +1,4 @@
-# Hi there! 👋
+# 👋 Hi there!
 
 Hi, I'm Sunny, a novice coder with tons of experience, and looking forward to learn more!
 
@@ -9,13 +9,16 @@ Hi, I'm Sunny, a novice coder with tons of experience, and looking forward to le
 - **🔭 Currently working on:** Floors
 - **🌱 Learning:** Python & C++
 - **💡 Interests:** Programming & Games
-- **📫 How to reach me:** [SunCode](https://discord.gg/MazJTVxk9b)
 
 ## 🎮 Hobbies
 
 - **🖥️ Games:** Roblox
 - **🎵 Music:** [Songs i like](https://open.spotify.com/playlist/7cgR9kxiY9GSXGgfTHvthE?si=9a4e2c078eeb441d)
 - **📜 Coding:** Java and LuaU especially.
+
+## 📫 How To Reach Me
+- **Personal Email:** sunny.suncode@outlook.com
+- **Discord Server:** https://bit.ly/SunCode
 
 ---
 
