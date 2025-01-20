@@ -13,9 +13,9 @@ Hi, I'm Sunny, a novice coder with tons of experience, and looking forward to le
 
 ## 🎮 Hobbies
 
-- **🖥️ Games:** Roblox and American Trucking Simulator
-- **🎵 Music:** I love to listen to music
-- **📜 Coding:** I enjoy spending my time coding
+- **🖥️ Games:** Roblox
+- **🎵 Music:** [Songs i like](https://open.spotify.com/playlist/7cgR9kxiY9GSXGgfTHvthE?si=9a4e2c078eeb441d)
+- **📜 Coding:** Java and LuaU especially.
 
 ---
 
