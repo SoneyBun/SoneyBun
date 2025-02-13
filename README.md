@@ -20,14 +20,10 @@ Hi, I'm Sunny, a novice coder with tons of experience, and looking forward to le
 - **Personal Email:** sunny.suncode@outlook.com
 - **Discord Server:** https://bit.ly/SunCode
 
----
+## 🌰Collegeboard Computer Science Courses
+- **☕ APCSA:** https://apcentral.collegeboard.org/courses/ap-computer-science-a
+- **🟨APCSP:** https://apstudents.collegeboard.org/courses/ap-computer-science-principles
 
 ## 👽 Misc
 - **🧠 Don't ask to ask, just ask:** https://dontasktoask.com
 - **😃 No hello:** https://nohello.net/en/
-
----
-
-## 🌰Collegeboard Computer Science Courses
-- **☕ APCSA:** https://apcentral.collegeboard.org/courses/ap-computer-science-a
-- **🟨APCSP:** https://apstudents.collegeboard.org/courses/ap-computer-science-principles
