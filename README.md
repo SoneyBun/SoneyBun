@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-Hi, I'm Sunny, a novice coder with tons of experience, and looking forward to learn more!
+Hi, I'm Sunny, I like to code and play games!
 
 ---
 
