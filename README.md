@@ -13,5 +13,5 @@
 - **📜 Coding:** Java, Lua, Python
 
 ## 📫 How To Reach Me
-- **Personal Email:** sunny.suncode@outlook.com
+- **Email:** sunny.suncode@outlook.com
 - **Discord Server:** https://bit.ly/SN_CD
