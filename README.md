@@ -1,5 +1,12 @@
-![newsun3](https://github.com/user-attachments/assets/d645ad15-d327-468c-a46c-9c6d73b6d9d0)
+![SunCalcV3Logo](https://github.com/user-attachments/assets/94820669-5c6c-416a-af9d-fe5db5bbb9e4)
 
-## 📫 How To Reach Me
-- **Email:** sunny.suncode@outlook.com
-- **Discord Server:** https://bit.ly/SN_CD
+<div align="center">Coming Soon
+
+<details><summary>How To Reach Me</summary>
+
+   📫 **Email:** sunny.suncode@outlook.com
+   
+   🖥️ **Discord Server:** https://bit.ly/SN_CD
+</details>
+
+</div>
