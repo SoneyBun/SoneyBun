@@ -1,4 +1,4 @@
-![secretsunny](https://github.com/user-attachments/assets/998c6ac6-6c6f-4df1-b147-c22f5c90c2f1)
+![newsun3](https://github.com/user-attachments/assets/d645ad15-d327-468c-a46c-9c6d73b6d9d0)
 
 ## 📫 How To Reach Me
 - **Email:** sunny.suncode@outlook.com
