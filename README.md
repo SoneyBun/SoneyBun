@@ -2,7 +2,7 @@
 
 <div align="center">
    
-   V3Coming Soon
+   V3 Coming Soon
 
 <details><summary>How To Reach Me</summary>
 
