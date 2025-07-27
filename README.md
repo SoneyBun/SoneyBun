@@ -1,5 +1,3 @@
-How To Reach Me
+y = 2x {-1 < x < 1}
 
-   📫 **Email:** sunny.suncode@outlook.com
-   
-   🖥️ **Discord Server:** https://bit.ly/SN_CD
+y=-2x^3 {-1 < x < 1}
