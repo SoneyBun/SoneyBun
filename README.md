@@ -1,8 +1,4 @@
-y = 2x {-1 < x < 1}
-
-y = -2x^3 {-1 < x < 1}
-
-<details>
-  <summary>Contact</summary>
-  📫 sunny.suncode@outlook.com
-</details>
+Contact
+ - 📫 Email: sunny.suncode@outlook.com
+ - 🎮 Roblox: [@pigpen255](https://create.roblox.com/talent/creators/180438571)
+ - 💻 Discord: https://bit.ly/SN_CD
