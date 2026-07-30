@@ -1,7 +1,7 @@
 <!-- Alignment -->
 <div align="center">
   <!-- Headshot -->
-  <img src="./headshot.svg" width="670" alt="SoneyBun"/>
+  <img src="./headshot.svg" width="460" alt="SoneyBun"/>
 </div>
 
 # 💻 Tech Stack:
